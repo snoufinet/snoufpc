@@ -1,0 +1,1 @@
+Invoke-WebRequest -uri 'http://192.168.1.159/core/api/jeeApi.php?apikey=cTS1TscXMHTWgxXcemek9qQBhtyxFFxW&type=scenario&id=4&action=start'
